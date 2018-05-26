@@ -12,12 +12,13 @@ body {
 }
 
 .logo {
-	position: fixed;
+	position: relative;
 	margin: 50px 50px 0 0;
 	top: 0;
-	right: 0;
-    height:50px;
-    width: 15%;
+}
+
+.logosize{
+	height:50px;
 }
 
 .iconinfo {
